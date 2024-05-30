@@ -1,0 +1,33 @@
+#text{
+    margin-top: 2rem;
+    background-color: rgb(240, 244, 242);
+  }
+
+  p{
+    line-height: 30px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:justify ;
+    
+  }
+
+  .text1 img{
+    float: right;
+    padding: 20px;
+    border-radius: 9px;
+   
+  }
+
+  h3{
+    color: peru;
+    font-size: 40px;
+    text-decoration: underline;
+  }
+
+
+
+
+  
+  
+ 
+ 

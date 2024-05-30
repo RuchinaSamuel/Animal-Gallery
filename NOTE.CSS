@@ -1,0 +1,575 @@
+/* Extra small devices (portrait phones, less than 576px)  */
+@media (max-width: 575.98px) { 
+    .sec2{
+     padding-top: 0;
+     margin-top: 0;
+     background-image: url(https://cdn.pixabay.com/photo/2019/04/06/05/17/wallpaper-4106667_640.jpg);
+     height: 500px;
+     width: auto;
+     margin-bottom: 1px;
+     padding-bottom: 1px;
+     
+   }
+ 
+   .sec2 img{
+     height: 80px;
+     width: auto;
+     justify-content: center;
+ 
+   }
+ .image{
+   margin-top: 5px;
+   padding-top: 2px;
+ }
+ .image-case{
+ display: flex; 
+     justify-content: center;
+     text-align: justify;
+     align-items: center;
+ }
+   .image-case .light-img{
+     height: 40px;
+      width: auto; 
+      margin-top: 1px;
+   }
+ 
+   .image p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     justify-content: center;
+     text-align: justify;
+     font-size: 14px;
+     color: white;
+     margin-left: 2px;
+     margin-right: 2px;
+     padding: 5px;
+     line-height: normal;
+     font-weight: 500;
+    
+ 
+   }
+ 
+   .image h1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     margin-top: 2px;
+     padding-top: 2px;
+   }
+ span{
+  font-family: 'Tangerine', cursive;
+  font-size: 60px;
+  font-weight:400; 
+ 
+ }  
+ /* LION BACKGROUND STYLE */
+ 
+ /* SWIPER STYLE */
+   .main-container{
+    background-color: #dae0fa;
+     width: auto;
+     margin-top: 0;
+   }
+ 
+ 
+   swiper-container {
+     width: auto;
+     padding-top: 10px;
+     padding-bottom: 50px;
+   }
+ 
+   swiper-slide {
+     
+     background-position: center;
+     background-size: cover;
+     width: 400px;
+     height: 400px;
+   }
+   .container-text h1{
+     padding-top: 50px;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     font-family: 'Lora', serif;
+     font-weight: 400;
+     font-size: 30px;
+     color: rgb(8, 7, 7);
+     text-decoration: underline;
+ 
+   }
+ 
+   swiper-slide img {
+       margin-top: 40px;
+     display: block;
+     width: 100%;
+     height: 100%;
+   }
+   
+   /* footer */
+   footer{
+     position: absolute;
+     margin-top: 10rem;
+     width: 100%;
+     height: 100%;
+     background-color: #51575c;
+     border-top-left-radius: 50px;
+     padding: 10px 0 10px;
+     font-size: 13px;
+     line-height: 20px;
+     overflow: hidden;
+   }
+   .logo-text{
+     text-align: justify;
+     padding : 15px;
+     margin-top: 0;
+     }
+     form textarea{
+       width: 70%;
+     }
+     form input{
+       width: 70%;
+       }
+   #submit{
+       width: 30%;
+       font-size: 14px;
+       background-color: peru;
+       color: white;
+       border-color: peru;
+       border-radius: 4px;
+     } 
+ 
+ } 
+ 
+ /* Small devices (landscape phones, less than 768px)  */
+ @media (max-width: 767.98px) { 
+   .sec2{
+     padding-top: 0;
+     margin-top: 0;
+     background-image: url(https://cdn.pixabay.com/photo/2019/04/06/05/17/wallpaper-4106667_640.jpg);
+     height: 500px;
+     width: auto;
+     margin-bottom: 1px;
+     padding-bottom: 1px;
+     
+   }
+ 
+   .sec2 img{
+     height: 80px;
+     width: auto;
+     justify-content: center;
+ 
+   }
+ .image{
+   margin-top: 5px;
+   padding-top: 2px;
+ }
+ .image-case{
+ display: flex; 
+     justify-content: center;
+     text-align: justify;
+     align-items: center;
+ }
+   .image-case .light-img{
+     height: 60px;
+      width: auto; 
+      margin-top: 1px;
+   }
+ 
+   .image p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     justify-content: center;
+     text-align: justify;
+     font-size: 14px;
+     color: white;
+     margin-left: 2px;
+     margin-right: 2px;
+     padding: 5px;
+     line-height: normal;
+     font-weight: 500;
+    
+ 
+   }
+ 
+   .image h1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     margin-top: 2px;
+     padding-top: 2px;
+   }
+ span{
+  font-family: 'Tangerine', cursive;
+  font-size: 60px;
+  font-weight:400; 
+ 
+ } 
+ /* LION BACKGROUND STYLE */
+ 
+ /* SWIPER STYLE */
+   .main-container{
+    background-color: #dae0fa;
+     width: auto;
+     margin-top: 0;
+   }
+ 
+ 
+   swiper-container {
+     width: auto;
+     padding-top: 10px;
+     padding-bottom: 50px;
+   }
+ 
+   swiper-slide {
+     
+     background-position: center;
+     background-size: cover;
+     width: 400px;
+     height: 400px;
+   }
+   .container-text h1{
+     padding-top: 50px;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     font-family: 'Lora', serif;
+     font-weight: 400;
+     font-size: 25px;
+     color: rgb(8, 7, 7);
+     text-decoration: underline;
+ 
+   }
+ 
+   swiper-slide img {
+       margin-top: 40px;
+     display: block;
+     width: 100%;
+     height: 100%;
+   } 
+   /* footer */
+   footer{
+     position: absolute;
+     margin-top: 10rem;
+     width: 100%;
+     height: 100%;
+     background-color: #51575c;
+     border-top-left-radius: 50px;
+     padding: 10px 0 10px;
+     font-size: 13px;
+     line-height: 20px;
+     overflow: hidden;
+   }
+   .logo-text{
+     text-align: justify;
+     padding : 15px;
+     margin-top: 0;
+     }
+     form textarea{
+       width: 70%;
+     }
+     form input{
+       width: 70%;
+       }
+   #submit{
+       width: 30%;
+       font-size: 14px;
+       background-color: peru;
+       color: white;
+       border-color: peru;
+       border-radius: 4px;
+     }
+  
+ }
+ 
+ /* Medium devices (tablets, less than 992px)  */
+ @media (max-width: 991.98px) { 
+   .sec2{
+     padding-top: 0;
+     margin-top: 0;
+     background-image: url(https://cdn.pixabay.com/photo/2019/04/06/05/17/wallpaper-4106667_640.jpg);
+     height: 500px;
+     width: auto;
+     margin-bottom: 1px;
+     padding-bottom: 1px;
+     
+   }
+ 
+   .sec2 img{
+     height: 80px;
+     width: auto;
+     justify-content: center;
+ 
+   }
+ .image{
+   margin-top: 5px;
+   padding-top: 2px;
+ }
+ .image-case{
+ display: flex; 
+     justify-content: center;
+     text-align: justify;
+     align-items: center;
+ }
+   .image-case .light-img{
+     height: 60px;
+      width: auto; 
+      margin-top: 1px;
+   }
+ 
+   .image p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     justify-content: center;
+     text-align: justify;
+     font-size: 14px;
+     color: white;
+     margin-left: 2px;
+     margin-right: 2px;
+     padding: 5px;
+     line-height: normal;
+     font-weight: 500;
+    
+ 
+   }
+ 
+   .image h1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     margin-top: 2px;
+     padding-top: 2px;
+   }
+ span{
+  font-family: 'Tangerine', cursive;
+  font-size: 60px;
+  font-weight:400; 
+ 
+ } 
+ /* LION BACKGROUND STYLE */
+ 
+ /* SWIPER STYLE */
+   .main-container{
+    background-color: #dae0fa;
+     width: auto;
+     margin-top: 0;
+   }
+ 
+ 
+   swiper-container {
+     width: auto;
+     padding-top: 10px;
+     padding-bottom: 50px;
+   }
+ 
+   swiper-slide {
+     
+     background-position: center;
+     background-size: cover;
+     width: 400px;
+     height: 400px;
+   }
+   .container-text h1{
+     padding-top: 50px;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     font-family: 'Lora', serif;
+     font-weight: 400;
+     font-size: 30px;
+     color: rgb(8, 7, 7);
+     text-decoration: underline;
+ 
+   }
+ 
+   swiper-slide img {
+       margin-top: 40px;
+     display: block;
+     width: 100%;
+     height: 100%;
+   } 
+   /* footer  */
+   footer{
+     position: absolute;
+     margin-top: 10rem;
+     width: 100%;
+     height: auto;
+     background-color: #51575c;
+     border-top-left-radius: 50px;
+     padding: 10px 0 10px;
+     font-size: 13px;
+     line-height: 20px;
+     overflow: hidden;
+     
+   }
+   form input{
+     width: 50%;
+     }
+     form textarea{
+       width: 50%;
+     }
+   .logo-text{
+     text-align: justify;
+     padding : 15px;
+     margin-top: 0;
+     }  
+   #submit{
+     width: 100px;
+     font-size: 14px;
+     background-color: peru;
+     color: white;
+     border-color: peru;
+     border-radius: 4px;
+     position: relative;
+     display: block;
+   }
+ 
+ }
+ 
+ 
+  /* Large devices (desktops, less than 1200px)  */
+  @media (max-width: 1199.98px) { 
+   .sec2{
+     padding-top: 0;
+     margin-top: 0;
+     background-image: url(https://cdn.pixabay.com/photo/2019/04/06/05/17/wallpaper-4106667_640.jpg);
+     height: 500px;
+     width: auto;
+     margin-bottom: 1px;
+     padding-bottom: 1px;
+     
+   }
+ 
+   .sec2 img{
+     height: 80px;
+     width: auto;
+     justify-content: center;
+ 
+   }
+ .image{
+   margin-top: 5px;
+   padding-top: 2px;
+ }
+ .image-case{
+ display: flex; 
+     justify-content: center;
+     text-align: justify;
+     align-items: center;
+ }
+   .image-case .light-img{
+     height: 60px;
+      width: auto; 
+      margin-top: 0;
+   }
+ 
+   .image p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     justify-content: center;
+     text-align: justify;
+     font-size: 16px;
+     color: white;
+     margin-left: 2px;
+     margin-right: 2px;
+     line-height: normal;
+     font-weight: 500;
+    
+ 
+   }
+ 
+   .image h1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: white;
+     margin-top: 2px;
+     padding-top: 2px;
+   }
+ span{
+  font-family: 'Tangerine', cursive;
+  font-size: 60px;
+  font-weight:400; 
+ 
+ }
+ /* LION BACKGROUND STYLE */
+ 
+ /* SWIPER STYLE */
+    .main-container{
+    background-color: #dae0fa;
+     width: auto;
+     margin-top: 0;
+   }
+ 
+ 
+   swiper-container {
+     width: auto;
+     padding-top: 10px;
+     padding-bottom: 50px;
+   }
+ 
+   swiper-slide {
+     background-position: center;
+     background-size: cover;
+     width: 400px;
+     height: 400px;
+   }
+   .container-text h1{
+     padding-top: 50px;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+     font-family: 'Lora', serif;
+     font-weight: 800;
+     font-size: 25px;
+     color: rgb(8, 7, 7);
+     text-decoration: underline;
+ 
+   }
+ 
+   swiper-slide img {
+       margin-top: 40px;
+     display: block;
+     width: 100%;
+     height: 100%;
+   } 
+ 
+   /* footer */
+   footer{
+     position: absolute;
+     margin-top: 10rem;
+     width: 100%;
+     height: auto;
+     background-color: #51575c;
+     border-top-left-radius: 50px;
+     padding: 10px 0 10px;
+     font-size: 13px;
+     line-height: 20px;
+     overflow: hidden;
+     
+   }
+   form input{
+     width: 50%;
+     }
+     form textarea{
+       width: 50%;
+     }
+   .logo-text{
+     text-align: justify;
+     padding : 15px;
+     margin-top: 0;
+     }  
+   #submit{
+     width: 100px;
+     font-size: 14px;
+     background-color: peru;
+     color: white;
+     border-color: peru;
+     border-radius: 4px;
+     position: relative;
+     display: block;
+   }
+   
+  }
+ 
+  /* Extra large devices (large desktops) 
+  // No media query since the extra-large breakpoint has no upper bound on its width  */
+ 
+ 
